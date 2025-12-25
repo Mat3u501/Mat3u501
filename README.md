@@ -116,7 +116,7 @@ _Back-End Java – Spring Boot_
 ---
 
 ## 📫 Contacto
-- 📧 **Email:** correo-prueba@hotmail.com  
+- 📧 **Email:** brayanm_74@hotmail.com  
 - 💼 **LinkedIn:** https://linkedin.com/in/brayan-mateus
 
 ---
