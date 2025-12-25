@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Perfil Profesional
+## 💻 Perfil Profesional
 
 Soy **Ingeniero de Sistemas recién graduado**, con experiencia en **desarrollo Front-End** utilizando **React, HTML, CSS y JavaScript**, y bases en **Java (Spring Boot)**, así como en **desarrollo Back-End con Python (Flask)**.
 
